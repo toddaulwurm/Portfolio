@@ -4,14 +4,14 @@ namespace Portfolio.Controllers
     public class PortfolioController : Controller
     {
         [HttpGet("")]
-        public string Portfolio()
+        public ViewResult Index()
         {
-            return "This is my Portfolio!";
+            return View();
         }
         [HttpGet("projects")]
-        public string Projects()
+        public ViewResult Projects()
         {
-            return "Projects!";
+            return View("Index");
         }
         [HttpGet("contact")]
         public string Contact()

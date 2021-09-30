@@ -18,3 +18,14 @@ C:\Users\todda\OneDrive\Documents\CodingDojo\C#\ASP.NETCore\Portfolio\obj\Debug\
 C:\Users\todda\OneDrive\Documents\CodingDojo\C#\ASP.NETCore\Portfolio\obj\Debug\netcoreapp3.1\Portfolio.dll
 C:\Users\todda\OneDrive\Documents\CodingDojo\C#\ASP.NETCore\Portfolio\obj\Debug\netcoreapp3.1\Portfolio.pdb
 C:\Users\todda\OneDrive\Documents\CodingDojo\C#\ASP.NETCore\Portfolio\obj\Debug\netcoreapp3.1\Portfolio.genruntimeconfig.cache
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\ASP.NETCore\Portfolio\obj\Debug\netcoreapp3.1\Portfolio.RazorAssemblyInfo.cache
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\ASP.NETCore\Portfolio\obj\Debug\netcoreapp3.1\Portfolio.RazorAssemblyInfo.cs
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\ASP.NETCore\Portfolio\bin\Debug\netcoreapp3.1\Portfolio.Views.dll
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\ASP.NETCore\Portfolio\bin\Debug\netcoreapp3.1\Portfolio.Views.pdb
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\ASP.NETCore\Portfolio\obj\Debug\netcoreapp3.1\Portfolio.TagHelpers.input.cache
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\ASP.NETCore\Portfolio\obj\Debug\netcoreapp3.1\Portfolio.TagHelpers.output.cache
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\ASP.NETCore\Portfolio\obj\Debug\netcoreapp3.1\Portfolio.RazorCoreGenerate.cache
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\ASP.NETCore\Portfolio\obj\Debug\netcoreapp3.1\Razor\Views\Portfolio\Index.cshtml.g.cs
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\ASP.NETCore\Portfolio\obj\Debug\netcoreapp3.1\Portfolio.RazorTargetAssemblyInfo.cs
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\ASP.NETCore\Portfolio\obj\Debug\netcoreapp3.1\Portfolio.Views.pdb
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\ASP.NETCore\Portfolio\obj\Debug\netcoreapp3.1\Portfolio.csproj.CopyComplete
