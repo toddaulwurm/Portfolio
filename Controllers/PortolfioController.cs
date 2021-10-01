@@ -11,12 +11,12 @@ namespace Portfolio.Controllers
         [HttpGet("projects")]
         public ViewResult Projects()
         {
-            return View("Index");
+            return View();
         }
         [HttpGet("contact")]
-        public string Contact()
+        public ViewResult Contact()
         {
-            return "Contact Me!";
+            return View();
         }
     }
 }

@@ -29,3 +29,5 @@ C:\Users\todda\OneDrive\Documents\CodingDojo\C#\ASP.NETCore\Portfolio\obj\Debug\
 C:\Users\todda\OneDrive\Documents\CodingDojo\C#\ASP.NETCore\Portfolio\obj\Debug\netcoreapp3.1\Portfolio.RazorTargetAssemblyInfo.cs
 C:\Users\todda\OneDrive\Documents\CodingDojo\C#\ASP.NETCore\Portfolio\obj\Debug\netcoreapp3.1\Portfolio.Views.pdb
 C:\Users\todda\OneDrive\Documents\CodingDojo\C#\ASP.NETCore\Portfolio\obj\Debug\netcoreapp3.1\Portfolio.csproj.CopyComplete
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\ASP.NETCore\Portfolio\obj\Debug\netcoreapp3.1\Razor\Views\Portfolio\Contact.cshtml.g.cs
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\ASP.NETCore\Portfolio\obj\Debug\netcoreapp3.1\Razor\Views\Portfolio\Projects.cshtml.g.cs
